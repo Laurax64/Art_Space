@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="title_1">Bubbles Rainbow</string>
+    <string name="title_2">Design Abstract</string>
+    <string name="title_3">AI Generated Parrot</string>
+    <string name="title_4">Tomatoes Vegetables</string>
+
+    <string name="artist_year_1">Janet Herman, 2016</string>
+    <string name="artist_year_2">Gordon Johnson, 2016</string>
+    <string name="artist_year_3">Çiğdem Onur, 2023</string>
+    <string name="artist_year_4">Olaf Schwenk, 2016</string>
+
+    <!--Content description for accessibility-->
+    <string name="content_description_1">Rainbow colored bubbles</string>
+    <string name="content_description_2">Rainbow colored flowers</string>
+    <string name="content_description_3">Rainbow colored parrot</string>
+    <string name="content_description_4">Rainbow colored tomatoes</string>
+
+    <string name="Next_Button">Next</string>
+    <string name="Previous_Button">Previous</string>
+
+</resources>
