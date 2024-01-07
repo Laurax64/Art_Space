@@ -1,6 +1,6 @@
 # Art Space App
 
-To practice the concepts I learned in unit 2 of [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course), including ui state, buttons, user input, screen orientation and size (and automated tests) I build this Android app that can display artwork.
+To practice the concepts I learned in unit 2 of [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course), including ui state, buttons, user input, screen orientation and size and automated tests I build this Android app that can display artwork.
 
 
 
